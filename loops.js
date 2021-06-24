@@ -29,7 +29,7 @@ for (let i = 0; i <= 5; i++) {
     }
     console.log(loop)
 }
-
+//Ik twijfel of deze code juist is door de console log met "Klaar" erin
 
 // ==========================================
 // Opdracht 3. Maak een for-loop die van 0 tot 15 loopt. Voor ieder getal wordt in de console gelogd of het getal even of oneven is.
